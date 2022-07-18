@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 코딩공방 블로그
-description: A Jekyll theme for documentation
+description: 이러저러한 공부의 흔적
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://babytmp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -63,9 +63,9 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+#aux_links:
+#  "Just the Docs on GitHub":
+#    - "//github.com/just-the-docs/just-the-docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
